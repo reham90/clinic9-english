@@ -1482,7 +1482,7 @@ header .desk-menu .menu-container .menu > li:hover.menu-item-has-children .sub-m
   display: table;
 }
 .owl-dots{
-  mask-type: 312px;
+  margin-top: 312px;
 }
 }
 
