@@ -1476,6 +1476,11 @@ header .desk-menu .menu-container .menu > li.menu-item-has-children .sub-menu li
 header .desk-menu .menu-container .menu > li:hover.menu-item-has-children .sub-menu{
   border-top: 0;
 }
+.cat-img{
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
 }
 
 
