@@ -1481,6 +1481,9 @@ header .desk-menu .menu-container .menu > li:hover.menu-item-has-children .sub-m
   margin-right: auto;
   display: table;
 }
+.owl-dots{
+  mask-type: 312px;
+}
 }
 
 
